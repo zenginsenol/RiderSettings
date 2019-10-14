@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://csharptest.net/downloads/schema/log4net.xsd" location="$USER_HOME$/.Rider2019.1/system/extResources/1e84bc73_log4net.xsd" />
+  </component>
+</application>
