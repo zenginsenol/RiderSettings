@@ -1,10 +1,1 @@
-<code_scheme name="Default" version="173">
-  <TypeScriptCodeStyleSettings version="0">
-    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
-  </TypeScriptCodeStyleSettings>
-  <codeStyleSettings language="TypeScript">
-    <indentOptions>
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-</code_scheme>
+<code_scheme name="Default" version="173" />
