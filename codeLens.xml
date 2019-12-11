@@ -1,22 +1,12 @@
 <application>
   <component name="CodeLensSettings" defaultAnchor="Right">
-    <limits>
-      <map>
-        <entry key="Right" value="6" />
-        <entry key="Top" value="6" />
-      </map>
-    </limits>
     <anchor>
       <map>
-        <entry key="Unity implicit usage" value="Right" />
         <entry key="VcsAuthorCodeLensProvider" value="Right" />
       </map>
     </anchor>
     <enabled>
-      <map>
-        <entry key="Usages" value="true" />
-        <entry key="VcsAuthorCodeLensProvider" value="true" />
-      </map>
+      <map />
     </enabled>
   </component>
 </application>
