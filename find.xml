@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'PmumWebService.Data'" />
-    <option name="defaultScopeName" value="Project 'PmumWebService.Data'" />
-    <option name="SEARCH_SCOPE" value="Project 'PmumWebService.Data'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
   </component>
 </application>
