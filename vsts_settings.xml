@@ -1,13 +1,22 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/neyasisdevelopments" />
+          <option name="serverUri" value="https://dev.azure.com/neyasisdevelopments" />
+          <option name="userId" value="a03b4329-8079-6de2-9d2a-2b8dd7701b31" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
       <array>
         <PropertyState>
-          <option name="name" value="tfHome" />
-          <option name="value" value="" />
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//dev.azure.com/neyasisdevelopments" />
         </PropertyState>
       </array>
     </option>
