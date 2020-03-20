@@ -6,6 +6,10 @@
           <option name="url" value="https://dev.azure.com/neyasisdevelopments/Ronesans/_git/Portal" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="mergor@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Projects" />
